@@ -23,4 +23,5 @@ Endpoints:
 ### - Tested with Postman ✅
 
 Database Structure:
+
 ![image](https://github.com/user-attachments/assets/4e9168d7-b701-4481-91ed-0688d2ef3421)
